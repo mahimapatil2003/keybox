@@ -1,1 +1,2 @@
-# This project shows the key code and code of any key on our keyboard.
+# Event KeyCodes
+This project shows the key code and code of any key on our keyboard.
